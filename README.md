@@ -9,8 +9,10 @@ Usage Instructions.
 
 You can paste as many links as you like but paste a each link in a new line 
 eg:
-	youtube.com/link1/
-	youtube.com/link2/
-	youtube.com/link3/
+youtube.com/link1/
+	
+youtube.com/link2/
+	
+youtube.com/link3/
 
 Downloading playlists is also supported (just paste the playlist URL)
