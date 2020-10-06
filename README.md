@@ -8,7 +8,9 @@ Usage Instructions.
 4) The video will download in the desired quality in the same folder
 
 You can paste as many links as you like but paste a each link in a new line 
+
 eg:
+
 youtube.com/link1/
 	
 youtube.com/link2/
